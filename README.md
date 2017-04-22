@@ -1,1 +1,2 @@
-# Berkley cs188
+# cs188
+### UC Berkeley's introductory artificial intelligence course
